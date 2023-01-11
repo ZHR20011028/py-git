@@ -12,6 +12,7 @@ def print_hi(name):
     print(f'Hi, {name}4')
     print('master test')
     print('hot-fix test')
+    print('push test')
 
 
 # 按间距中的绿色按钮以运行脚本。
