@@ -10,6 +10,7 @@ def print_hi(name):
     print(f'Hi, {name}2')
     print(f'Hi, {name}3')
     print(f'Hi, {name}4')
+    print('hot-fix test')
 
 
 # 按间距中的绿色按钮以运行脚本。
